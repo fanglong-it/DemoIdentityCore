@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIdentityCore", "DemoIdentityCore.csproj", "{C7DBC121-C967-4EFC-864A-A99B37783E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoIdentityCore", "DemoIdentityCore.csproj", "{C7DBC121-C967-4EFC-864A-A99B37783E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyPhongBan", "..\QuanLyPhongBan\QuanLyPhongBan.csproj", "{A3B737E2-5AA7-4B71-8A04-CC017CE3B260}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoMVCEF", "..\DemoMVCEF\DemoMVCEF.csproj", "{E30515AF-077F-485D-B8A6-15BF74A92FBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C7DBC121-C967-4EFC-864A-A99B37783E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DBC121-C967-4EFC-864A-A99B37783E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DBC121-C967-4EFC-864A-A99B37783E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B737E2-5AA7-4B71-8A04-CC017CE3B260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B737E2-5AA7-4B71-8A04-CC017CE3B260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B737E2-5AA7-4B71-8A04-CC017CE3B260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B737E2-5AA7-4B71-8A04-CC017CE3B260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30515AF-077F-485D-B8A6-15BF74A92FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30515AF-077F-485D-B8A6-15BF74A92FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30515AF-077F-485D-B8A6-15BF74A92FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30515AF-077F-485D-B8A6-15BF74A92FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
